@@ -154,7 +154,7 @@ var styles = StyleSheet.create({
     color: '#AAA',
     position: 'absolute',
     fontSize: 20,
-    top: 7
+    top: 0
   },
   labelDirty: {    
     marginTop: 21,   
