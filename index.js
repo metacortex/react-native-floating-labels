@@ -162,7 +162,7 @@ var styles = StyleSheet.create({
     color: '#AAA',
     position: 'absolute',
     fontSize: 12,
-    top: -17,
+    top: -10,
   }
 });
 
